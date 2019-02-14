@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Deleguete_APP1\Deleguete_APP1\obj\Debug\Deleguete_APP1.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Deleguete_APP1\Deleguete_APP1\obj\Debug\Deleguete_APP1.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Deleguete_APP1\Deleguete_APP1\bin\Debug\Deleguete_APP1.exe.config
+C:\Users\KOFFI\source\repos\Deleguete_APP1\Deleguete_APP1\bin\Debug\Deleguete_APP1.exe
+C:\Users\KOFFI\source\repos\Deleguete_APP1\Deleguete_APP1\bin\Debug\Deleguete_APP1.pdb
+C:\Users\KOFFI\source\repos\Deleguete_APP1\Deleguete_APP1\obj\Debug\Deleguete_APP1.exe
+C:\Users\KOFFI\source\repos\Deleguete_APP1\Deleguete_APP1\obj\Debug\Deleguete_APP1.pdb
